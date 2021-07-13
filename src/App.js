@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import { FaEdit, FaTrash } from 'react-icons/fa'
 import { useEffect, useState } from 'react';
 import List from './components/List';
 import Alert from './components/Alert';
